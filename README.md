@@ -2,6 +2,8 @@
 
 A simple and beautiful React-based frontend application to help users discover recipes using just a list of ingredients. No sign-up. No saving. Just search and enjoy delicious ideas.
 
+👉 [Live Demo](https://main.d28hd7w5a37fep.amplifyapp.com/)
+
 Hosted on **AWS Amplify** | Powered by **Spoonacular API**
 
 ---
